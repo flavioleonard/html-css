@@ -1,0 +1,25 @@
+. https://color.adobe.com/pt/create/color-wheel (pra trabalhar com paleta de cores) - utilizar também para saber quais são as cores principais de uma logo de um cliente através da ferramenta "extrair tema"
+- "extrair gradiente" para montar degradê
+- "tendências" para escolher paleta de cores modernas 
+
+. https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+- Parecido com o color adobe mas ele também de dá exemplos de sites com determinadas cores 
+
+- Mockflow - pra criar estruturas de site 
+
+
+pexels - para videos e imagens gratuitas sem direitos autorais 
+handbraker - programa de edição de vídeo
+gimp - programa de edição de foto
+
+. https://color.adobe.com/pt/create/color-wheel (pra trabalhar com paleta de cores) - utilizar também para saber quais são as cores principais de uma logo de um cliente através da ferramenta "extrair tema"
+- "extrair gradiente" para montar degradê
+- "tendências" para escolher paleta de cores modernas 
+
+. https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+- Parecido com o color adobe mas ele também de dá exemplos de sites com determinadas cores 
+
+. https://fonts.google.com/knowledge
+- site para desenvolver fontes
+
+. fonte ninja, what font is, font squirrel pra detectar as fontes de um site

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de hover</title>
+    <style>
+        body{font-family: Arial, Helvetica, sans-serif;}
+        div:hover{color: darkslateblue;}
+        div > p {display: none;}
+        div:hover > p {display: block; color: rgb(177, 159, 194); background-color: blue; width: 200px;} /* o ">" serve para destacar que algo é filho de algo. No exemplo acima o "p" é filho da div. */
+    </style>
+</head>
+<body>
+    <h1>Exemplo de hover</h1>
+    <p>Passe o mouse sobre o texto abaixo</p>
+    <div>Passe o mouse aqui
+        <p>TEXTO ESCONDIDO</p>
+    </div>
+</body>
+</html>

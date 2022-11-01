@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+#body{background-color: #14373D;}
+
+h1{
+}
+
+header{margin: 10px;
+    padding: 10px;
+background-color: white;}
+
+nav{box-shadow: 2px 2px 2px #273A3D;
+    background-color: #24BAD6;}
+
+nav > a{text-decoration: none;}
+nav > a:hover{text-decoration: underline;}
+main{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+text-align: justify;}
+
+footer{padding: 2px;
+text-align: center;
+background-color: #77B2BD;}
