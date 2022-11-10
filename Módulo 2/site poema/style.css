@@ -1,0 +1,89 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Siracha';
+    src: url(Sriracha-Regular.ttf);
+}
+@font-face {
+    font-family:'PassionOne' ;
+    src: url(PassionOne-Bold.ttf);
+}
+
+:root {--font-cabecalho:'PassionOne';
+--font-poema:'Siracha';}
+
+main{ font-family: Siracha;
+
+
+}
+
+body{margin: 0px;
+    
+min-height: 100vh;
+}
+
+header h1 { font-family:PassionOne;
+             color: white;
+             text-align: center;
+             padding-top: 65px;
+             font-size: 153px; ;
+             margin: 0px;}
+
+             .por{ text-align: center;
+                color: white;
+            }
+             .recanto{color: white;
+                       text-decoration: none;
+                    font-weight: bold;}
+
+                    .recanto:hover{text-decoration: underline}
+
+
+header {background-color: black;
+    height: 300px;
+    margin: 0px;
+    min-height: 300px;
+    
+
+}
+
+.normal {height: 600px;
+font-size: 53px;
+text-align: left;}
+
+.normal > p {width: 50%;
+line-height: 2em;}
+
+
+.imagem {background-image: url(background001.jpg);
+height: 200px;
+background-size: cover;
+background-attachment: fixed;
+height: 800px;
+
+}
+
+.imagem > p { background-color: rgba(0, 0, 0, 0.355);
+    width: 50%; 
+color: white;
+font-family: var(--font-poema);
+line-height: 2em;
+font-size:53px ;
+padding-top: 1em;
+display: inline-block;
+padding: 5px;
+
+
+}
+
+#normal2 { height: 1300px}
+
+#imagem2 {background-image: url(background002.jpg);
+    height: 850px;
+
+
+
+
+}
+
+
