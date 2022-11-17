@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+table {
+    width: 500px;
+    border-collapse: collapse;
+    position: relative;
+
+}
+
+thead > tr > th {
+    position: sticky; /*Colado*/
+    top: -1px;
+    background-color: rgb(67, 65, 65); 
+} /*Configuração pra que, ao rolar a página pra baixo, o thead acompannhe*/
+
+td, th {
+    border: 1px solid rgb(56, 55, 55);
+    padding: 10px;
+}
+
+thead, tfoot {
+    background-color: rgb(67, 65, 65);
+    color: white;
+}
+
+caption {
+    font-size: 1.5em ;
+    font-weight: bold;
+    padding: 10px;
+    background-color:lightgray;
+}
+
+tbody > tr:nth-child(2n){ 
+    background-color: lightgray;
+
+} /* tr:nth-child(2n) pra colocar o efeito background de duas em duas linhas*/
